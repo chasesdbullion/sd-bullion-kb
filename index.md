@@ -2,20 +2,30 @@
 title: SD Bullion – FAQ
 layout: home
 ---
-<input id="search-input" type="search" placeholder="Search the FAQ" style="width:100%;max-width:600px;padding:10px;margin:16px 0;">
-<ul id="results-container"></ul>
+<input id="search-input" type="search" placeholder="Search the FAQ (e.g., cancel, wire, tube)" style="width:100%;max-width:700px;padding:10px;margin:16px 0;">
+<ul id="results"></ul>
 
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
+    resultsContainer: document.getElementById('results'),
     json: '{{ site.baseurl }}/search.json',
-    searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+    // Show a snippet of matching page text:
+    searchResultTemplate: '<li><a href="{url}">{title}</a><br><small>{content}</small></li>',
     noResultsText: '<li>No results found.</li>',
-    fuzzy: true
-  })
+    fuzzy: true,
+    limit: 10,
+    // Trim the content so it’s a short snippet:
+    templateMiddleware: function(prop, value, template) {
+      if (prop === 'content') {
+        return value.length > 180 ? value.substring(0, 180) + '…' : value;
+      }
+      return value;
+    }
+  });
 </script>
+
 
 # SD Bullion – Frequently Asked Questions
 
