@@ -15,28 +15,19 @@ layout: page
 **A:** For first-time customers, shipments must go to the billing address. After a verified purchase history, alternate addresses may be available.
 
 **Q:** How many coins fit in a tube or monster box?
-**A:** American Silver Eagle tube: 20 coins. Monster box: 25 tubes (500 coins). Other coins vary — check product pages for packaging details.
+**A:** It really depends on the coins you are buying. Some tubes hold 20 coins, while other hold 25 coins. For example, American Silver Eagle tube: 20 coins. Monster box: 25 tubes (500 coins). It's best to check product pages under "Details" for tube and box packaging details.
 
 **Q:** My order was duplicated — what should I do?
-**A:** Contact us right away to cancel the duplicate before it ships.
+**A:** Contact us right away to cancel the duplicate before it ships. Cancellation fees may apply.
 
 **Q:** When will my order ship?
-**A:** Card/PayPal/crypto orders typically queue for shipment within 1–3 business days. Check and wire orders ship after funds clear.
+**A:** Card/PayPal/crypto orders typically queue for shipment within 1–2 business days. Check and wire orders ship after funds clear our account.
 
 **Q:** Why is my order still “Processing”?
-**A:** It remains Processing until payment clears and items move to fulfillment. Checks: ~3–5 business days; wires: usually 1 business day.
+**A:** It remains Processing until payment clears and items move to fulfillment. Checks and e-Checks typically take 3–5 business days for funds to fully settle and clear into our bank account; wires: usually 1 business day.
 
 **Q:** Can I cancel or change my order?
-**A:** Orders are binding due to live metal pricing. If it hasn’t entered fulfillment, contact us immediately and we’ll review options.
-
-**Q:** Do you ship to Canada or internationally?
-**A:** We currently ship within the U.S. For storage, consider SD Depository. For exceptions, contact support.
-
-**Q:** Tracking shows delivered to the wrong city/state—what now?
-**A:** Contact support immediately. We’ll investigate with the carrier and work toward a resolution.
+**A:** No. Orders are binding due to live metals pricing.
 
 **Q:** Can I hold shipment or delay delivery?
-**A:** Once packed, packages move quickly. Ask support before fulfillment begins to discuss hold options.
-
-**Q:** What should I do if my package is lost, missing, or marked delivered but I didn’t receive it?
-**A:** Contact SD Bullion support immediately. We will review the tracking details and open an investigation with the carrier. All orders are shipped fully insured. Once the carrier completes their investigation, we will work with you on a replacement or resolution. In some cases, packages marked “delivered” may arrive the next business day—please check around your property and with neighbors first.
+**A:** Yes, there are options but only if your order hasn't shipped yet. Once packed, packages move quickly. Ask support before fulfillment begins to discuss hold options.

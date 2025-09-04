@@ -1,5 +1,7 @@
 title: SD Bullion – FAQ
-description: Frequently asked questions about SD Bullion payments, orders, products, pricing, accounts, sweepstakes, and website help.
+description: SD Bullion knowledge base and FAQs.
+url: https://chasesdbullion.github.io
+baseurl: /sd-bullion-kb
 theme: minima
 plugins:
   - jekyll-seo-tag

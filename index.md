@@ -6,10 +6,10 @@ layout: home
 
 Browse by category:
 
-- [Payments & Transactions](/payments/)
-- [Orders & Shipping](/orders/)
-- [Products & Inventory](/products/)
-- [Pricing & Deals](/pricing/)
-- [Accounts & Depository](/accounts/)
-- [Sweepstakes & Promotions](/sweepstakes/)
-- [Website & Checkout](/website/)
+- [Payments & Transactions]({{ site.baseurl }}/payments/)
+- [Orders & Shipping]({{ site.baseurl }}/orders/)
+- [Products & Inventory]({{ site.baseurl }}/products/)
+- [Pricing & Deals]({{ site.baseurl }}/pricing/)
+- [Accounts & Depository]({{ site.baseurl }}/accounts/)
+- [Sweepstakes & Promotions]({{ site.baseurl }}/sweepstakes/)
+- [Website & Checkout]({{ site.baseurl }}/website/)
