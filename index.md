@@ -26,6 +26,16 @@ layout: home
   });
 </script>
 
+<script>
+  const input = document.getElementById('search-input');
+  const catList = document.getElementById('category-list'); // add id to your category <ul>
+  input.addEventListener('input', () => {
+    if (!catList) return;
+    catList.style.display = input.value.trim() ? 'none' : '';
+  });
+</script>
+
+
 
 # SD Bullion – Frequently Asked Questions
 
