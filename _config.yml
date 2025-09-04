@@ -1,0 +1,9 @@
+title: SD Bullion – FAQ
+description: Frequently asked questions about SD Bullion payments, orders, products, pricing, accounts, sweepstakes, and website help.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
